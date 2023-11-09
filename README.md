@@ -14,9 +14,25 @@ b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
 
+USECASE DIAGRAM:
 
+![Student Usecase Diagram](https://github.com/PRAISEYSOLOMON/LAB-5-Student-registration-system/assets/119394259/1f717c1c-cbce-4e1a-be7b-93e6dc8c4149)
 
+STATECHART DIAGRAM:
 
+![Student StatechartDiagram](https://github.com/PRAISEYSOLOMON/LAB-5-Student-registration-system/assets/119394259/93856e46-44e7-4cfc-b058-50360f5021e0)
+
+CLASS DIAGRAM:
+
+![student class diagram 1](https://github.com/PRAISEYSOLOMON/LAB-5-Student-registration-system/assets/119394259/1356ffcc-8267-45c4-a61f-ac934becb1db)
+
+PACKAGE DIAGRAM:
+
+![student packageDiagram](https://github.com/PRAISEYSOLOMON/LAB-5-Student-registration-system/assets/119394259/5ddb4240-db12-4b86-bb02-2f06a98126c4)
+
+SEQUENCE DIAGRAM:
+
+![Student SequenceDiagram](https://github.com/PRAISEYSOLOMON/LAB-5-Student-registration-system/assets/119394259/91068f07-f6bb-41d5-99b4-d2e4fd05f185)
 
 ### RESULT:
 Thus the Student information system project was executed and the output was
